@@ -98,6 +98,14 @@ Install this project with:
 ```
 ### Usage <a name="usage"></a>
 
+Run the following command to recompile the project:
+
+`rake assets:precompile`
+
+Or run this commant in the separate terminal:
+
+`yarn build --watch`
+
 To run the project, execute the following command:
 
 `rails server`
